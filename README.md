@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-DeepSeek--1.5B-red)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Team-%20Nankai-Chinasoft-project-blueviolet"/>
+  <img src="https://img.shields.io/badge/Team-Nankai%20Nankai-Chinasoft-project-blueviolet"/>
   <img src="https://img.shields.io/badge/Model-Qwen-lightblue"/>
   <img src="https://img.shields.io/badge/LoRA-Supported-brightgreen"/>
   <img src="https://img.shields.io/github/license/xjtatnku/Nankai-Chinasoft-project"/>
