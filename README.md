@@ -3,6 +3,18 @@
 ![Conda](https://img.shields.io/badge/Env-Miniconda-yellow)
 ![Platform](https://img.shields.io/badge/Platform-DeepSeek--1.5B-red)
 
+![访问趋势](https://quickchart.io/chart?c={
+  type:'line',
+  data:{
+    labels:['7-01','7-02','7-03'],
+    datasets:[{
+      label:'项目访问量',
+      data:[3,5,9],
+      fill:false,
+      borderColor:'blue'
+    }]
+  }
+})
 
 
 # 🚀 Nankai-Chinasoft-project
