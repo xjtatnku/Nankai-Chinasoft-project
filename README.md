@@ -44,16 +44,19 @@
 
 ---
 
-## 🗂 项目结构
+## 📁 项目结构
+
+```bash
 Nankai-Chinasoft-project/
-├── data/ # 数据集与预处理
-├── models/ # 微调后模型保存路径
-├── scripts/ # 训练 / 推理 / 评估脚本
-├── notebooks/ # Jupyter 笔记本记录与分析
-├── requirements.txt # 所需依赖列表
-├── README.md # 项目说明文件
-├── LICENSE # 开源许可证
-└── .gitignore # Git忽略配置
+├── data/              # 数据集与预处理
+├── models/            # 微调后模型保存路径
+├── scripts/           # 训练 / 推理 / 评估脚本
+├── notebooks/         # Jupyter 笔记本记录与分析
+├── requirements.txt   # 所需依赖列表
+├── README.md          # 项目说明文件
+├── LICENSE            # 开源许可证
+└── .gitignore         # Git 忽略配置
+
 
 | 周次    | 任务内容                |
 | ----- | ------------------- |
