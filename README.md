@@ -2,7 +2,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Conda](https://img.shields.io/badge/Env-Miniconda-yellow)
 ![Platform](https://img.shields.io/badge/Platform-DeepSeek--1.5B-red)
-![访问量统计](https://count.getloli.com/badge/@xjtatnku.Nankai-Chinasoft-project.svg)
 
 
 
