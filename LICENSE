@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2025 xjtatnku
+Copyright (c) 2025 Nankai University DeepSeek Team
+
+Contributors:
+- Xiao Juntao (肖俊涛) - 项目管理与模型训练
+- Chen Zixin (陈字心) - 数据处理与微调实现
+- Zuo Zhiqin (左智勤) - 推理部署与 CLI 接口
+- Zhi Hengjian (支恒健) - 模型评估与文档撰写
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
