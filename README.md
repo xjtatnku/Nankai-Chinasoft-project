@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Conda](https://img.shields.io/badge/Env-Miniconda-yellow)
+![Platform](https://img.shields.io/badge/Platform-DeepSeek--1.5B-red)
+
 # 🚀 Nankai-Chinasoft-project
 
 > 2025 年度夏季南开大学实训项目 · 基于国产大模型 DeepSeek 的小型训练与部署实践
